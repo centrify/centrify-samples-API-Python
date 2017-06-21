@@ -5,7 +5,7 @@ Notes: This package contains code sample snippets for the Centrify Identity Serv
 
 # /Security/AdvanceAuthentication 
   advanceAuthentication.py - example snippet of how to advance the state of an authentication session
-  (Input params: "SessionId" : "MechanismId")
+  * (Input params: "SessionId" : "MechanismId")
   
 # /Security/WhoAmI
   whoAmI.py - example snippet of how to request user info for current session
