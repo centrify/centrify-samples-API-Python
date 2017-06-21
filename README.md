@@ -28,8 +28,8 @@ Notes: This package contains code sample snippets for the Centrify Identity Serv
 # /CDirectoryService/ChangeUser
   changeUser.py - example snippet of changing cloud properties for a user
   
-# /CDirectoryService/DeleteUser
-  deleteUser.py - example snippet of deleting a cloud user
+# /UserMgmt/RemoveUser
+  removeUser.py - example snippet of deleting/removing a cloud user (/CDirectoryService/DeleteUser is deprecated)
   
 # /UserMgmt/InviteUsers
   inviteUsers.py - example snippet of inviting one or more users to the cloud service portal
