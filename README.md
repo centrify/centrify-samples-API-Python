@@ -13,6 +13,9 @@ Notes: This package contains code sample snippets for the Centrify Identity Serv
 # /Uprest/GetUpData
   getUpData.py - example snippet of returning information for all applications that are deployed for a specific user
   
+# /CDirectoryService/GetUsers
+  getUsers.py - example snippet of getting a list of all cloud directory users
+
 # /UserMgmt/GetUserInfo
   getUserInfo.py - example snippet of retrieving detailed information for a user
   
